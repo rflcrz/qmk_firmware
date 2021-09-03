@@ -10,7 +10,7 @@ const keypos_t PROGMEM hand_swap_config[MATRIX_ROWS][MATRIX_COLS] = {
 uint16_t get_tapping_term(uint16_t keycode, keyrecord_t *record) {
     switch (keycode) {
         case SH_T(KC_SPC):
-            return 1250;
+            return 125;
         case SFT_T(KC_NUBS):
             return 125;
         default:
