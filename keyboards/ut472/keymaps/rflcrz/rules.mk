@@ -1,2 +1,2 @@
 SWAP_HANDS_ENABLE = yes
-// CONSOLE_ENABLE = yes
+//CONSOLE_ENABLE = yes

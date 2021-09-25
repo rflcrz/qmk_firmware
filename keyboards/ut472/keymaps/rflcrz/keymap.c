@@ -12,7 +12,7 @@ uint16_t get_tapping_term(uint16_t keycode, keyrecord_t *record) {
         case SH_T(KC_SPC):
             return 125;
         case SFT_T(KC_NUBS):
-            return 125;
+            return 100;
         default:
             return TAPPING_TERM;
     }
