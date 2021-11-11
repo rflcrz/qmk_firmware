@@ -8,10 +8,10 @@
   "layers": [
     [
       "KC_TAB",
-      "LSFT(KC_Q)",
-      "LGUI(KC_W)",
-      "LALT(KC_E)",
-      "LCTL(KC_R)",
+      "LSFT_T(KC_Q)",
+      "LGUI_T(KC_W)",
+      "LALT_T(KC_E)",
+      "LCTL_T(KC_R)",
       "KC_T",
       "KC_Y",
       "KC_U",
